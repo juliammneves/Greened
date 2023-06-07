@@ -338,16 +338,19 @@ nav .btns i{
     flex-direction: column;
     line-height: 25px;
     justify-content: center;
-    padding-left: 40px;
+    padding-left: 80px;
 }
 .section4 .col-5 h4{
     font-size: 80px;
-    color: #D0DDD459;
+    color: #d0ddd479;
     position: absolute;
     top: 50%;
     left: 0;
     transform: translate(-50%, -50%);
     z-index: -1;
+}
+body.dark .section4 .col-5 h4{
+    color: #d0ddd41d;
 }
 /* =========== Section 4 =========== */
 

@@ -39,6 +39,7 @@ body{
     background-color: var(--bg);
     overflow-x: hidden;
     width: calc(100% + 9px);
+    transition: all .3s ease-in-out;
 }
 body.dark{
     --bg: #1c1c1c;

@@ -1,10 +1,3 @@
-/* ===== ALERTA DE BEM-VINDO ===== */
-document.addEventListener('DOMContentLoaded', function() {
-  alert('Bem-vindo à nossa página!');
-});
-/* ===== ALERTA DE BEM-VINDO ===== */
-
-
 /* ===== DARK MODE ===== */
 const body = document.querySelector('body');
 const modeToggle = document.querySelector('#moon');
